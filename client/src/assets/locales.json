@@ -1,0 +1,14 @@
+{
+    "desktop": "Sunt un desktop.",
+    "startButton": "Start",
+    "windows": [
+        {
+        "title": "Fereastră 1",
+        "content": "Conținutul ferestrei 1"
+        },
+        {
+        "title": "Fereastră 2",
+        "content": "Conținutul ferestrei 2"
+        }
+    ]
+}
