@@ -34,24 +34,24 @@
   }
   
   .window-title img {
-    margin-right: 8px; /* Adaugă spațiu între imagine și titlu */
+    margin-right: 8px; 
   }
 
   .window-controls {
     display: flex;
-    justify-content: space-between; /* Distribuie butoanele orizontal */
-    align-items: center; /* Centrează butoanele pe verticală în bara de titlu */
-    height: 100%; /* Ocupă întreaga înălțime a barei de titlu */
-    padding: 0 5px; /* Adaugă un pic de padding pe laterale */
+    justify-content: space-between; 
+    align-items: center;
+    height: 100%; 
+    padding: 0 5px; 
   }
   
   
   .window-controls button {
     background-color: #eeeeee;
     border: 1px solid #aaaaaa;
-    margin: 0 2px; /* Distanța între butoane */
-    width: 20px; /* Lățimea butonului */
-    height: 100%; /* Înălțimea butonului să fie egală cu înălțimea barei de titlu */
+    margin: 0 2px; 
+    width: 20px; 
+    height: 100%; 
     cursor: pointer;
     text-align: center;
     display: flex;

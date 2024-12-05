@@ -1,18 +1,18 @@
 html,
 body {
-  margin: 0; /* Elimină marginea implicită a browserului */
-  padding: 0; /* Elimină spațiile implicite */
-  width: 100%; /* Lățimea completă a ferestrei */
-  height: 100%; /* Înălțimea completă a ferestrei */
-  overflow: hidden; /* Elimină scroll-ul */
+  margin: 0; 
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden; 
 }
 
 .desktop {
-  width: 100vw; /* Lățimea completă a ferestrei de vizualizare */
-  height: 100vh; /* Înălțimea completă a ferestrei de vizualizare */
+  width: 100vw; 
+  height: 100vh; 
   background-image: url('../../assets/images/windows-xp-bliss.jpg');
-  background-size: cover; /* Imaginea acoperă complet fundalul */
-  background-position: center; /* Imaginea este centrată */
-  background-repeat: no-repeat; /* Imaginea nu se repetă */
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
   position: relative;
 }
